@@ -1,0 +1,31 @@
+{
+  "name": "series-player-api",
+  "version": "1.0.0",
+  "description": "API para player de séries com suporte para Android WebView",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node server.js",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^28.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "player",
+    "series",
+    "api",
+    "vercel",
+    "android-webview"
+  ],
+  "author": "BoyFeljo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BoyFeljo/Gh"
+  }
+}
